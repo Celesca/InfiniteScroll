@@ -1,0 +1,13 @@
+.card-component {
+    width: 100%;
+  }
+
+.card-hero-text:hover {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.card-action {
+    width: 100%;
+}

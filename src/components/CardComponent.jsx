@@ -10,7 +10,7 @@ import './CardComponent.css';
 export default function CardComponent(props) {
   const {description,url,types,topics,levels} = props
   return (
-    <Grid item style={{display: "flex" , marginBottom:3}} xs={3}>
+    <Grid item style={{display: "flex" , marginBottom:50}} xs={3}>
 
     <Card className="card-component" sx={{ minWidth: 300 , marginLeft:3 , marginRight:3}}>
       <CardContent>

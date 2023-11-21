@@ -1,8 +1,28 @@
-# React + Vite
+# Infinite Scroll Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Infinite-Scroll](https://github.com/Celesca/Celesca/blob/main/Project%20Picture/infinite.PNG)
 
-Currently, two official plugins are available:
+Greetings and welcome everyone. 
+Infinite Scroll Web Application is the web-app that use the function when you are scrolling down and load more contents
+to improve User Experience
+The project was created using React and Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+1. Cloing repository to your local repository
+
+`git clone https://github.com/Celesca/InfiniteScroll.git`
+
+2. Move toward file directory.
+   
+`cd InfiniteScroll`
+
+3. Install react-scripts. It's essential to runs the app.
+
+`npm install react-scripts@latest`
+
+5. Runs the app in the development mode.
+   
+`npm run dev`
+
+Then, open [http://localhost:5173](http://localhost:5173) to view it in your browser.

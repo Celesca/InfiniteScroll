@@ -7,6 +7,8 @@ Infinite Scroll Web Application is the web-app that use the function when you ar
 to improve User Experience
 The project was created using React and Vite.
 
+## Demo : https://celesca.github.io/InfiniteScroll/
+
 ## Installation
 
 1. Cloing repository to your local repository
